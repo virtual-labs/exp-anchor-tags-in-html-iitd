@@ -1,0 +1,28 @@
+## Post test
+<br>
+Q1. The hyperlink created by an anchor tag is applied to the text, image, or other HTML content.<br>
+<b>A  True<br></b>
+B   False<br>
+
+Q2. An hyperlink comes with an underline and blue color text by default. State True Or False.<br>
+<b>A  True<br></b>
+B   False<br>
+
+Q3. Select the attributes which is used in ‹a› tag for giving the source of page to which hyperlinks is to be created.<br>
+<b>A  href<br></b>
+B  url<br>
+C  link<br>
+D  None of the above<br>
+
+
+Q4.The _____________ value for target attribute will open page in a new window.<br>
+A  _self<br>
+<b>B  _blank<br></b>
+C  Both<br>
+D  None of the above<br>
+
+Q5. Select the correct attribute of anchor tag for opening the hyperlinked page in a new tab.<br>
+A  new <br>
+B  newtab<br>
+<b>C  target<br></b>
+D  None of the above<br>
