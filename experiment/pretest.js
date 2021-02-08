@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹a› tag is used to create link from one page to another.",
+      question: "â€¹aâ€º tag is used to create link from one page to another.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "‹a› is an empty element..State True or False.",
+      question: "â€¹aâ€º is an empty element..State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "What will ‹a href="http://www.google.com" title="Link to Google" ›Google‹/a›do",
+      question: "What will â€¹a href=http://www.google.com title=Link to Google â€ºGoogleâ€¹/aâ€ºdo",
       answers: {
         a: "Adds a link to google on the page",
         b: "Adds a search engine to the page",
@@ -122,10 +122,10 @@
 	{
       question: "What is the correct HTML for creating a hyperlink?",
       answers: {
-        a: "‹a href="vlab.co.in"›View Labs",
-        b: "‹a›View Labs‹/a›",
-        c: "‹a URL="vlab.co.in"›View Labs‹/a›",
-        d: "‹a name="vlab.co.in"›View Labs‹/a›"
+        a: "â€¹a href=vlab.co.inâ€ºView Labs",
+        b: "â€¹aâ€ºView Labsâ€¹/aâ€º",
+        c: "â€¹a URL=vlab.co.inâ€ºView Labsâ€¹/aâ€º",
+        d: "â€¹a name=vlab.co.inâ€ºView Labsâ€¹/aâ€º"
       },
       correctAnswer: "a"
     },
