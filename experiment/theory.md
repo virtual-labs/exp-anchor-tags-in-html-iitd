@@ -1,6 +1,6 @@
 ### 1.1 Introduction
 
-The ‹a› tag, or anchor tag, is used to create a hyperlink to another webpage or another location within the same webpage. The hyperlink created by an anchor tag is applied to the text, image, or other HTML content nested between the opening and closing ‹a› tags. The most important attribute of the ‹a› tag is the href (hyperlink reference) attribute, which indicates the link's destination.
+The ‹a› tag or anchor tag, is used to create a hyperlink to another webpage or another location within the same webpage. The hyperlink created by an anchor tag is applied to the text, image, or other HTML content nested between the opening and closing ‹a› tags. The most important attribute of the ‹a› tag is the href (hyperlink reference) attribute, which indicates the link's destination.
 
 By default, links will appear as follows in all browsers:
 
