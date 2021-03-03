@@ -4,9 +4,9 @@ The ‹a› tag, or anchor tag, is used to create a hyperlink to another webpage
 
 By default, links will appear as follows in all browsers:
 
-  1. An unvisited link is underlined and blue
-  2. A visited link is underlined and purple
-  3. An active link is underlined and red
+  - An unvisited link is underlined and blue
+  - A visited link is underlined and purple
+  - An active link is underlined and red
 
 
 ### 1.2 Syntax
