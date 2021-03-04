@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "The hyperlink created by an anchor tag is applied to the text, image, or other HTML content.",
+      question: "Q1. The hyperlink created by an anchor tag is applied to the text, image, or other HTML content.",
       answers: {
         a: "True",
         b: "False"        
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "An hyperlink comes with an underline and blue color text by default. State True Or False.",
+      question: "Q2. An hyperlink comes with an underline and blue color text by default. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Select the attributes which is used in ‹a› tag for giving the source of page to which hyperlinks is to be created.",
+      question: "Q3. Select the attributes which is used in â€¹aâ€º tag for giving the source of page to which hyperlinks is to be created.",
       answers: {
         a: "href",
         b: "url",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "The _____________ value for target attribute will open page in a new window.",
+      question: "Q4. The _____________ value for target attribute will open page in a new window.",
       answers: {
         a: "self",
         b: "blank",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "Select the correct attribute of anchor tag for opening the hyperlinked page in a new tab.",
+      question: "Q5. Select the correct attribute of anchor tag for opening the hyperlinked page in a new tab.",
       answers: {
         a: "new",
         b: "newtab",

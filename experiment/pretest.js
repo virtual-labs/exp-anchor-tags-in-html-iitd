@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹a› tag is used to create link from one page to another.",
+      question: "Q1. ‹a› tag is used to create link from one page to another.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "‹a› is an empty element..State True or False.",
+      question: "Q2. ‹a› is an empty element. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Which is not an attribute of Anchor tag.",
+      question: "Q3. Which is not an attribute of Anchor tag.",
       answers: {
         a: "name",
         b: "href",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "What will ‹a href=http://www.google.com title=Link to Google ›Google‹/a›do",
+      question: "Q4. What will ‹a href=http://www.google.com title=Link to Google ›Google‹/a›do.",
       answers: {
         a: "Adds a link to google on the page",
         b: "Adds a search engine to the page",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "What is the correct HTML for creating a hyperlink?",
+      question: "Q5. What is the correct HTML for creating a hyperlink?",
       answers: {
         a: "‹a href=vlab.co.in›View Labs",
         b: "‹a›View Labs‹/a›",
