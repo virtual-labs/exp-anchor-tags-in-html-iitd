@@ -80,49 +80,53 @@
 
   const myQuestions = [
     {
-      question: "Q1. ‹a› tag is used to create link from one page to another.",
+      question: "Q1. It is an HTML tag used to create hyperlinks. The tag identifies what is clicked on and where it links to.",
       answers: {
-        a: "True",
-        b: "False"
+        a: "Anchor Tag (<a> </a>)",
+        b: "Beginning Tag (<html>)",
+	c: "Ending Tag (</p)",
+	d: "Break Tag (</br>)"
       },
       correctAnswer: "a"
     },
 
     {
-      question: "Q2. ‹a› is an empty element. State True or False.",
+      question: "Q2.Why won't this anchor tag work? <a href=https://www.google.com/>click here</a>",
       answers: {
-        a: "True",
-        b: "False"
+        a: "The link is incorrect. it should be ref, not href",
+        b: "The URL is missing quotation marks",
+	c: "There is no anchor tag in the code",
+	d: "The href is missing a closing tag"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
 
     {
-      question: "Q3. Which is not an attribute of Anchor tag.",
+      question: "Q3. Which is an attribute of Anchor tag.",
       answers: {
-        a: "name",
+        a: "alt",
         b: "href",
-        c: "http",
+        c: "URL",
         d: "None of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
 	
 	{
-      question: "Q4. What will ‹a href=http://www.google.com title=Link to Google ›Google‹/a›do.",
+      question: "Q4.  Which attribute contains the URL to a linked web page?.",
       answers: {
-        a: "Adds a link to google on the page",
-        b: "Adds a search engine to the page",
-        c: "Both",
+        a: "src",
+        b: "type",
+        c: "href",
         d: "None of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
 	
 	{
-      question: "Q5. What is the correct HTML for creating a hyperlink?",
+      question: "Q5. What is the correct HTML Code for creating a hyperlink?",
       answers: {
-        a: "‹a href=vlab.co.in›View Labs",
+        a: "‹a href='vlab.co.in'›View Labs</a>",
         b: "‹a›View Labs‹/a›",
         c: "‹a URL=vlab.co.in›View Labs‹/a›",
         d: "‹a name=vlab.co.in›View Labs‹/a›"
