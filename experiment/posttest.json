@@ -24,10 +24,10 @@
 }, {
 	"question": "Q4. The _____________ value for target attribute will open page in a new window.",
 	"answers": {
-		"a": "self",
-		"b": "blank",
-		"c": "both",
-		"d": "none"
+		"a": "_self",
+		"b": "_blank",
+		"c": "Both",
+		"d": "None of the above"
 	},
 	"correctAnswer": "b"
 }, {
