@@ -102,7 +102,7 @@
     },
 
     {
-      question: "Q3. Which is an attribute of Anchor tag.",
+      question: "Q3. Which is an attribute of Anchor tag?",
       answers: {
         a: "alt",
         b: "href",
@@ -126,10 +126,10 @@
 	{
       question: "Q5. What is the correct HTML Code for creating a hyperlink?",
       answers: {
-        a: "‹a href='vlab.co.in'›View Labs</a>",
-        b: "‹a›View Labs‹/a›",
-        c: "‹a URL=vlab.co.in›View Labs‹/a›",
-        d: "‹a name=vlab.co.in›View Labs‹/a›"
+        a: "&lt;a href='vlab.co.in'›View Labs&lt;/a&gt;",
+        b: "&lt;a&gt;View Labs&lt;/a&gt;",
+        c: "&lt;a URL=vlab.co.in›View Labs&lt;/a&gt;",
+        d: " &lt;a name=vlab.co.in›View Labs&lt;/a&gt;"
       },
       correctAnswer: "a"
     },
