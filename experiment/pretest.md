@@ -15,7 +15,7 @@ D  The href is missing a closing tag<br>
 
 Q3. Which is an attribute of Anchor tag?<br>
 A  alt<br>
-<b>B  href<b><br>
+<b>B  href</b><br>
 C  URL<br>
 D  None of the above<br>
 
