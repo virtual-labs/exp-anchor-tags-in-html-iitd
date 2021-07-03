@@ -26,7 +26,7 @@ B  type<br>
 D  None of the above<br>
 
 Q5.What is the correct HTML for creating a hyperlink?<br>
-<b>A  ‹a href='vlab.co.in'›View Labs</a></b><br>
-B  ‹a›View Labs‹/a›<br>
-C  ‹a URL=vlab.co.in›View Labs‹/a›<br>
-D  ‹a name=vlab.co.in›View Labs‹/a›<br>
+<b>A  &lt;a href='vlab.co.in'›View Labs&lt;/a&gt;</b><br>
+B  &lt;a&gt;View Labs&lt;/a&gt;<br>
+C  &lt;a URL=vlab.co.in›View Labs&lt;/a&gt;<br>
+D  &lt;a name=vlab.co.in›View Labs&lt;/a&gt;<br>
