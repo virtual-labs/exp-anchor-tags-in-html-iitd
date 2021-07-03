@@ -2,10 +2,10 @@
 #### Please attempt the following questions
 
 Q1. It is an HTML tag used to create hyperlinks. The tag identifies what is clicked on and where it links to.<br>
-<b>A Anchor Tag (&lt;a&gt; &lt;/a&gt;)</b><br>
-B   Beginning Tag (&lt;html&gt;)<br>
-C  Ending Tag (&lt;/p&gt;)<br>
-D  Break Tag (&lt;/br&gt;)
+<b>A Anchor Tag &lt;a&gt; &lt;/a&gt;</b><br>
+B   Beginning Tag &lt;html&gt;<br>
+C  Ending Tag &lt;/p&gt;<br>
+D  Break Tag &lt;/br&gt;<br>
 
 Q2. Why won't this anchor tag work? &lt;a href=https://www.google.com/&gt;click here&lt;/a&gt;.<br>
 A  The link is incorrect. it should be ref, not href<br>
