@@ -84,7 +84,7 @@
       answers: {
         a: "Anchor Tag (<a> </a>)",
         b: "Beginning Tag (<html>)",
-	c: "Ending Tag (</p)",
+	c: "Ending Tag (</p>)",
 	d: "Break Tag (</br>)"
       },
       correctAnswer: "a"
@@ -113,7 +113,7 @@
     },
 	
 	{
-      question: "Q4.  Which attribute contains the URL to a linked web page?.",
+      question: "Q4.  Which attribute contains the URL to a linked web page?",
       answers: {
         a: "src",
         b: "type",
