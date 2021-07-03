@@ -82,16 +82,16 @@
     {
       question: "Q1. It is an HTML tag used to create hyperlinks. The tag identifies what is clicked on and where it links to.",
       answers: {
-        a: "Anchor Tag (<a> </a>)",
-        b: "Beginning Tag (<html>)",
-	c: "Ending Tag (</p>)",
-	d: "Break Tag (</br>)"
+        a: "Anchor Tag &lt;a&gt; &lt;/a&gt;",
+        b: "Beginning Tag &lt;html&gt;",
+	c: "Ending Tag &lt;/p&gt;",
+	d: "Break Tag &lt;/br&gt;"
       },
       correctAnswer: "a"
     },
 
     {
-      question: "Q2.Why won't this anchor tag work? <a href=https://www.google.com/>click here</a>",
+      question: "Q2.Why won't this anchor tag work?  &lt;a href=https://www.google.com/&gt;click here&lt;/a&gt;",
       answers: {
         a: "The link is incorrect. it should be ref, not href",
         b: "The URL is missing quotation marks",
