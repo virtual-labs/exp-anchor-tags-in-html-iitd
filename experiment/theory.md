@@ -14,7 +14,7 @@ By default, links will appear as follows in all browsers:
 
 ‹a href="pagepath/pagename"›hyperlink‹/a›
 
-‹a href="http://vlab.co.in/"›Visit Lab‹/a›
+‹a href="http://vlab.co.in/"› Visit Lab ‹/a›
 
 
 ### 1.3 Attributes of ‹img› tag
