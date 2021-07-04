@@ -106,7 +106,7 @@
       answers: {
         a: "alt",
         b: "href",
-        c: "URL",
+        c: "url",
         d: "None of the above"
       },
       correctAnswer: "b"
