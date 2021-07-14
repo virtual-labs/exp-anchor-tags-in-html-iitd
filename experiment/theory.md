@@ -14,10 +14,10 @@ By default, links will appear as follows in all browsers:
 
 ‹a href="pagepath/pagename"›hyperlink‹/a›
 
-‹a href="http://vlab.co.in/"› Visit Lab ‹/a›
+‹a href="http://vlab.co.in/index.html"› Visit Lab ‹/a›
 
 
-### 1.3 Attributes of ‹img› tag
+### 1.3 Attributes of ‹a› tag
 
 |	Attribute   |     Value      |  Description    |
 |:----------|:-------------|:------|
