@@ -1,7 +1,7 @@
 ## Pre-test
 #### Please attempt the following questions
 
-Q1. It is an HTML tag used to create hyperlinks. The tag identifies what is clicked on and where it links to.<br>
+Q1. Which tag used to create hyperlinks ?<br>
 <b>A Anchor Tag &lt;a&gt; &lt;/a&gt;</b><br>
 B   Beginning Tag &lt;html&gt;<br>
 C  Ending Tag &lt;/p&gt;<br>
