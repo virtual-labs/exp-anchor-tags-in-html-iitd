@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. It is an HTML tag used to create hyperlinks. The tag identifies what is clicked on and where it links to.",
+      question: "Q1. Which tag used to create hyperlinks ?",
       answers: {
         a: "Anchor Tag &lt;a&gt; &lt;/a&gt;",
         b: "Beginning Tag &lt;html&gt;",
