@@ -6,5 +6,5 @@
 
 3. HTML and CSS: Design and Build Websites By- Jon Duckett.
 
-4. NPTEL: Introduction to HTML.
+
 
