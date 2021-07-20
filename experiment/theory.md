@@ -14,12 +14,14 @@ By default, links will appear as follows in all browsers:
 
 ‹a href="pagepath/pagename"›hyperlink‹/a›
 
-‹a href="http://vlab.co.in/"›Visit Lab‹/a›
+‹a href="http://vlab.co.in/index.html"› Visit Lab ‹/a›
 
 
-### 1.3 Attributes of ‹img› tag
+### 1.3 Attributes of ‹a› tag
 
- 	Attribute	Value	  					Description
-  	href	  	url	  						Specifies the URL of a page or the name of the anchor that   the link goes to.
-  	target	  	blank, parent, self, top  Specifies Where to open the target URL.
-  	download	filename  					This downloads the target when user clicks on the   hyperlink.
+|	Attribute   |     Value      |  Description    |
+|:----------|:-------------|:------|
+|  href |   url |  Specifies the URL of a page|
+| 	target	 |   blank, parent, self, top  |  Specifies Where to open the target URL |
+| download |  filename |  This downloads the target when user clicks on the   hyperlink |
+
