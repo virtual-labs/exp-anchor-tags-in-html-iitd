@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Q3. Select the attributes which is used in ‹a› tag for giving the source of page to which hyperlinks is to be created.",
+      question: "Q3. Select the attribute which is used in ‹a› tag for giving the source of page to which hyperlink is to be created.",
       answers: {
         a: "href",
         b: "url",
