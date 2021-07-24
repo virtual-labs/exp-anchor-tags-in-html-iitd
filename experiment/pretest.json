@@ -1,5 +1,5 @@
 [{
-	"question": "Q1.  Which tag used to create hyperlinks ?",
+	"question": "Q1.  Which tag is used to create hyperlinks ?",
 	"answers": {
 		"a": "Anchor Tag &lt;a&gt; &lt;/a&gt;",
 		"b": "Beginning Tag &lt;html&gt;",
