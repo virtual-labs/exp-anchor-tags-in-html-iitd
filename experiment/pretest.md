@@ -1,7 +1,7 @@
 ## Pre-test
 #### Please attempt the following questions
 
-Q1. Which tag used to create hyperlinks ?<br>
+Q1. Which tag is used to create hyperlinks ?<br>
 <b>A Anchor Tag &lt;a&gt; &lt;/a&gt;</b><br>
 B   Beginning Tag &lt;html&gt;<br>
 C  Ending Tag &lt;/p&gt;<br>
