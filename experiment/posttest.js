@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Q4. The _____________ value for target attribute will open page in a new window.",
+      question: "Q4. The _____________ value for target attribute will open page in a new tab.",
       answers: {
         a: "_self",
         b: "_blank",
