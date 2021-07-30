@@ -15,7 +15,7 @@ C  link<br>
 D  None of the above<br>
 
 
-Q4.The _____________ value for target attribute will open page in a new window.<br>
+Q4.The _____________ value for target attribute will open page in a new tab.<br>
 A  _self<br>
 <b>B  _blank</b><br>
 C  Both<br>
